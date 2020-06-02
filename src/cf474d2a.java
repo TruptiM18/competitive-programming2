@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class cd474d2a {
+public class cf474d2a {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int d= sc.next().equals("R")? -1 : 1;
